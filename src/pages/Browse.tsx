@@ -1,4 +1,4 @@
-import React, {useEffect,useMemo,useState} from "react"
+import  {useEffect,useMemo,useState} from "react"
 import type { Video } from "../types"
 import VideoCard from "../components/VideoCard"
 import { readLikes,saveLikes } from "../utils"

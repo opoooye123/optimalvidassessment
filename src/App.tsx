@@ -1,4 +1,3 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Browse from "./pages/Browse";
 import VideoDetails from "./pages/VideoDetails";

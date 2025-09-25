@@ -1,4 +1,3 @@
-import React from "react";
 import type { Video } from "../types";
 import { formatDuration } from "../utils";
 import { Link } from "react-router-dom";
