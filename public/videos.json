@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "title": "Intro to Optimalvid",
+    "description": "A short overview of Optimalvid's mission and product.",
+    "genre": "Documentary",
+    "duration": 125,
+    "thumbnail": "https://picsum.photos/seed/opt-1/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Product Tour",
+    "description": "Quick tour showing the product's key features.",
+    "genre": "Demo",
+    "duration": 240,
+    "thumbnail": "https://picsum.photos/seed/opt-2/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "3",
+    "title": "Design System Walkthrough",
+    "description": "How we build UI components at Optimalvid.",
+    "genre": "Tutorial",
+    "duration": 360,
+    "thumbnail": "https://picsum.photos/seed/opt-3/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "4",
+    "title": "Customer Testimonial",
+    "description": "Hear from one of our early customers about their experience.",
+    "genre": "Interview",
+    "duration": 180,
+    "thumbnail": "https://picsum.photos/seed/opt-4/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "5",
+    "title": "Behind the Scenes",
+    "description": "Take a look at how our team works on Optimalvid.",
+    "genre": "Documentary",
+    "duration": 200,
+    "thumbnail": "https://picsum.photos/seed/opt-5/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "6",
+    "title": "Animation Reel",
+    "description": "Highlights from our creative animation projects.",
+    "genre": "Animation",
+    "duration": 150,
+    "thumbnail": "https://picsum.photos/seed/opt-6/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "7",
+    "title": "Explainer: Cloud Video",
+    "description": "Explaining how Optimalvid handles video in the cloud.",
+    "genre": "Explainer",
+    "duration": 210,
+    "thumbnail": "https://picsum.photos/seed/opt-7/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "8",
+    "title": "Workshop Recording",
+    "description": "A recording of our recent video strategy workshop.",
+    "genre": "Education",
+    "duration": 480,
+    "thumbnail": "https://picsum.photos/seed/opt-8/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "9",
+    "title": "Developer Talk",
+    "description": "Our lead engineer talks about frontend performance.",
+    "genre": "Tech Talk",
+    "duration": 300,
+    "thumbnail": "https://picsum.photos/seed/opt-9/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "10",
+    "title": "Marketing Strategy",
+    "description": "How we plan to bring Optimalvid to market.",
+    "genre": "Business",
+    "duration": 275,
+    "thumbnail": "https://picsum.photos/seed/opt-10/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "11",
+    "title": "Daily Standup",
+    "description": "A fun look at one of our daily team standups.",
+    "genre": "Vlog",
+    "duration": 95,
+    "thumbnail": "https://picsum.photos/seed/opt-11/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "12",
+    "title": "Video Editing Basics",
+    "description": "Learn the basics of editing videos with our tool.",
+    "genre": "Tutorial",
+    "duration": 400,
+    "thumbnail": "https://picsum.photos/seed/opt-12/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "13",
+    "title": "Optimalvid Vision",
+    "description": "The bigger picture and future goals of Optimalvid.",
+    "genre": "Documentary",
+    "duration": 215,
+    "thumbnail": "https://picsum.photos/seed/opt-13/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "14",
+    "title": "UI Showcase",
+    "description": "A look at our latest user interface designs.",
+    "genre": "Demo",
+    "duration": 155,
+    "thumbnail": "https://picsum.photos/seed/opt-14/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "15",
+    "title": "Quick Tips: Video Upload",
+    "description": "Tips for quickly uploading and managing your videos.",
+    "genre": "How-To",
+    "duration": 130,
+    "thumbnail": "https://picsum.photos/seed/opt-15/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "16",
+    "title": "Optimalvid Culture",
+    "description": "Our culture and values as a growing startup.",
+    "genre": "Interview",
+    "duration": 220,
+    "thumbnail": "https://picsum.photos/seed/opt-16/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "17",
+    "title": "Code Review Session",
+    "description": "Walkthrough of a recent code review in our dev team.",
+    "genre": "Tech Talk",
+    "duration": 310,
+    "thumbnail": "https://picsum.photos/seed/opt-17/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "18",
+    "title": "User Onboarding",
+    "description": "How new users are guided through our platform.",
+    "genre": "Demo",
+    "duration": 190,
+    "thumbnail": "https://picsum.photos/seed/opt-18/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "19",
+    "title": "Security Deep Dive",
+    "description": "An inside look at how we handle platform security.",
+    "genre": "Education",
+    "duration": 420,
+    "thumbnail": "https://picsum.photos/seed/opt-19/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  },
+  {
+    "id": "20",
+    "title": "Closing Highlights",
+    "description": "Key moments from the past year at Optimalvid.",
+    "genre": "Highlight",
+    "duration": 260,
+    "thumbnail": "https://picsum.photos/seed/opt-20/600/400",
+    "src": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
+  }
+]
